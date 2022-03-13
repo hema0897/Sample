@@ -1,2 +1,2 @@
-This is a sample project for CI demo
+sample This is a sample project for CI demo
 : Jan 9 :
